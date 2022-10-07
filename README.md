@@ -1,5 +1,3 @@
 # Ejercicios-DOM-Curso-JS-de-JonMircha
 
-Agregando contenido al _README.md_
-
-Agregando 2da linea
+Aquí están mis ejercicios del DOM realizados en el curso de JavaScript
