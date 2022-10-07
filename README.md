@@ -1,2 +1,4 @@
 # Ejercicios-DOM-Curso-JS-de-JonMircha
-# Ejercicios-DOM-Curso-JS-de-JonMircha
+
+Agregando contenido al _README.md_
+
