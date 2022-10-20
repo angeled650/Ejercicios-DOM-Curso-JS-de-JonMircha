@@ -15,7 +15,7 @@ export default function searchFilter(input, selector) {
   d.querySelector(input).addEventListener("input", (e) => {
     if ("" == e.target.value) {
       d.querySelectorAll(selector).forEach((elem) =>
-        elem.textContent.toLowerCase().includes(e.target.value)
+        elem.textContent.toLowerCase().includes(e.target.value.toLowerCase())
           ? elem.classList.remove("filter")
           : elem.classList.add("filter")
       );
