@@ -240,6 +240,10 @@ iframe {
 }
 
 @media screen and (max-width: 30em) {
+  .section {
+    min-height: 740px;
+  }
+
   #youtube,
   #maps {
     display: flex;
